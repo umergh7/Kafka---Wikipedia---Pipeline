@@ -1,1 +1,1 @@
-# Kafka---Wikipedia---Pipeline
+# Kafka Wikipedia Pipeline
